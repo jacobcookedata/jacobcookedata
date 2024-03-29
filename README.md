@@ -2,6 +2,7 @@
 
 I am Jacob, an aspiring data analyst with a background in Physics.
 Following my Master's in Physics, I have been exploring all things data and I'm hoping to break into the data industry!
+
 I have been developing my skills in Python and SQL:
  - Pandas for data wrangling
  - Matplotlib, Seaborn and Bokeh for visualisations
